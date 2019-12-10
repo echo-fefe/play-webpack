@@ -1,0 +1,24 @@
+{
+  "name": "play-webpack",
+  "version": "1.0.0",
+  "description": "play webpack for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echo-fefe/play-webpack.git"
+  },
+  "author": "echo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echo-fefe/play-webpack/issues"
+  },
+  "homepage": "https://github.com/echo-fefe/play-webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
